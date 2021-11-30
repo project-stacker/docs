@@ -1,0 +1,10 @@
+name: docs-stacker
+title: Stacker Docs
+version: master
+nav:
+  - modules/ROOT/nav.adoc
+asciidoc:
+  attributes:
+    project-name: Stacker
+    project-github: https://github.com/project-stacker/stacker
+    project: link:{project-github}[{project-name}]

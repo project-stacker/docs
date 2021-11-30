@@ -1,0 +1,4 @@
+= {project-name}
+
+include::partial$short-project-description.adoc[]
+
